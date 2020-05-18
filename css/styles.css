@@ -63,3 +63,7 @@ body {
 
 .modal .modal-footer {
   background: #9575CD; }
+
+.collapse{
+  content: none;
+}
